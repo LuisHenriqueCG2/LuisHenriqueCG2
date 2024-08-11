@@ -15,7 +15,7 @@
 </div>
 
 - :mortar_board:Formado em Análise e Desenvolvimento de Sistemas.
-- :purple_heart:Hoje trabalho como Analiste de Suporte na Inside Sistemas.
+- :purple_heart:Hoje trabalho como Analiste de Sistemas na Inside Sistemas.
 
  
 <div> 
